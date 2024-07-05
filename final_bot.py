@@ -1,4 +1,5 @@
 import MetaTrader5 as mt
+import pandas as pd
 import time
 import numpy as np
 from datetime import datetime
